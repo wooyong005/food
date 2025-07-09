@@ -1,3 +1,5 @@
+# 크롤링..
+
 import requests
 
 API_KEY = 'AIzaSyCh26s4aSUQgjF_u5ksLIVwYzh3-HjH_os'
